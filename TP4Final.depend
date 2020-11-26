@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1606406515 source:c:\users\lucas\desktop\tp4\tp4final\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1606405668 c:\users\lucas\desktop\tp4\tp4final\linkedlist.h
+
+1606311024 c:\users\lucas\desktop\tp4\tp4final\employee.h
+	"LinkedList.h"
+
+1606310031 c:\users\lucas\desktop\tp4\tp4final\parser.h
+
+1606310031 c:\users\lucas\desktop\tp4\tp4final\utn.h
+
+1606313416 source:c:\users\lucas\desktop\tp4\tp4final\employee.c
+	"Employee.h"
+	"utn.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1606405668 source:c:\users\lucas\desktop\tp4\tp4final\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606406483 source:c:\users\lucas\desktop\tp4\tp4final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1606406474 c:\users\lucas\desktop\tp4\tp4final\controller.h
+
+1606310031 source:c:\users\lucas\desktop\tp4\tp4final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1606310031 source:c:\users\lucas\desktop\tp4\tp4final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
